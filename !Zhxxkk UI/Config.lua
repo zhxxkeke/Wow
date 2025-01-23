@@ -1,0 +1,3 @@
+local addonName, addonTable = ...
+local config = {}
+addonTable.config = config

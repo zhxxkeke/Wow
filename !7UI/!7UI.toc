@@ -1,0 +1,12 @@
+## Interface: 110105
+## Title: !7UI
+## Title-zhCN: |CFFFFFF00 !7UI|R
+## IconTexture: Interface\AddOns\!7UI\Texture\Icon\7UI
+## Author: 沐琪
+## Version: 0.1.0
+## SavedVariables: SevenDB
+
+
+Config.lua
+
+Module\Embeds.xml
